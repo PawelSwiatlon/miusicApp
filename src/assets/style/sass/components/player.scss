@@ -1,0 +1,16 @@
+.player {
+
+    &-container {
+        width: 100%;
+        height: 20vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    
+    }  
+    
+    &-controller {
+        display: flex;
+    }
+}
